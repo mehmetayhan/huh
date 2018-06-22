@@ -1,0 +1,12 @@
+{
+    "name": "huh/scroll",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mehmet",
+            "email": "mehmetayhantr@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
